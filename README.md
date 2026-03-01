@@ -15,5 +15,4 @@ focus on:
 <br>
 ## Current Focus
 
-Mastering pointers and dynamic memory allocation by building
-small utilities.
+Mastering all the basics and build some simple but useful utilities.
