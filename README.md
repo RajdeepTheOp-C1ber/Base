@@ -1,4 +1,19 @@
-# rajdeeptheop-demo
-Just making tiny things and posting it , in hope of advises from people and improve myself. 
+# C Programming Jouney
+This repository documents my journey of rebuilding my C programming
+skills from the fundamentals to system-level projects.
 <br>
-Author - Rajdeep Chakraborty
+Goal: Make better and more clear logics.
+<br>
+After a long break from coding, I restarted C with a
+focus on:
+
+- Regaining clarity 
+- Learn something new and use that every way possible
+- Building real and useful programs
+- Maintaining daily consistency using GitHub
+
+<br>
+## Current Focus
+
+Mastering pointers and dynamic memory allocation by building
+small utilities.
